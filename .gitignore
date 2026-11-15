@@ -1,0 +1,4 @@
+config.sh
+config.*.local.sh
+__pycache__/
+*.pyc
